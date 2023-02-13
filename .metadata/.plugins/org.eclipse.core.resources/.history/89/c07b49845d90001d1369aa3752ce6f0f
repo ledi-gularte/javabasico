@@ -1,0 +1,15 @@
+package treinamento;
+
+public class Programando {
+public static void main (String[] args) {
+	String escola = "Pintinho amarelinho";
+	String aluno = "Derick Gularte";
+	String turno = "manhã";
+	double mensalidade = 1500.00;
+	System.out.println("O nome da escola é:" + escola);
+	System.out.println("O nome do aluno é:" + aluno);
+	System.out.println("O turno de aula é:" + turno);
+	System.out.println("O valor da mensalidade é %.2f reais:" + mensalidade);
+	
+}
+}

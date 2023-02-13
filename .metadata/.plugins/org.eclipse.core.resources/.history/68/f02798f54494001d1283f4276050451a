@@ -1,0 +1,12 @@
+package medias;
+
+import java.util.Scanner;
+
+public class Principal {
+public static void main(String[] args) {
+	Scanner teclado = new Scanner(System.in);
+	double nota1, nota2, nota3, nota4, media;
+	System.out.println("digite a nota do primeiro bimestre");
+	nota1 = teclado.nextDouble();
+}
+}
